@@ -1,4 +1,4 @@
-### Student Outreach & Engagement Management Platform
+## Student Outreach & Engagement Management Platform
 
 StudentPath is a modern web application designed to help student success teams manage student communication, outreach activities, follow-ups, tasks, family engagement, and program-level insights from a centralized dashboard.
 
